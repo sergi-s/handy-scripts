@@ -1,0 +1,906 @@
+[
+    {
+        "Company Name": "AbbaTek Group",
+        "LinkedIn": "https://www.linkedin.com/company/abbatek/",
+        "Website": "https://abbatekgroup.com/",
+        "Technologies": {
+            "Front End": [
+                "TypeScript",
+                "React.js"
+            ],
+            "Back End": [
+                "TypeScript",
+                "Node.js",
+                "Express"
+            ],
+            "Database": [
+                "Postgres"
+            ],
+            "Cloud Provider": [
+                "AWS"
+            ]
+        }
+    },
+    {
+        "Company Name": "Avalon Holographics",
+        "LinkedIn": "https://www.linkedin.com/company/avalon-holographics/",
+        "Website": "https://www.avalonholographics.com/",
+        "Technologies": {
+            "Back End": [
+                "C++",
+                "HLSL",
+                "GLSL",
+                "Python",
+                "UE4",
+                "Unity",
+                "DirectX",
+                "Vulkan",
+                "OpenGL",
+                "Metal"
+            ]
+        }
+    },
+    {
+        "Company Name": "Bluedrop",
+        "LinkedIn": "https://www.linkedin.com/company/bluedrop-ism/",
+        "Website": "https://bluedropism.com/",
+        "Technologies": {
+            "Front End": [
+                "JavaScript",
+                "React.js"
+            ],
+            "Back End": [
+                "JavaScript",
+                "GraphQL",
+                "Node.js",
+                "RESTful API"
+            ],
+            "Database": [
+                "Postgres"
+            ]
+        }
+    },
+    {
+        "Company Name": "Breathesuite",
+        "LinkedIn": "https://www.linkedin.com/company/breathesuite/",
+        "Website": "https://www.breathesuite.com/",
+        "Technologies": {
+            "Front End": [
+                "JavaScript",
+                "Angular",
+                "Ionic",
+                "Cordova"
+            ],
+            "Back End": [
+                "C",
+                "Python"
+            ],
+            "Cloud Provider": [
+                "AWS",
+                "Firebase"
+            ]
+        }
+    },
+    {
+        "Company Name": "C-CORE",
+        "LinkedIn": "https://www.linkedin.com/company/c-core/",
+        "Website": "https://c-core.ca/",
+        "Technologies": {
+            "Front End": [
+                "React.js",
+                "TypeScript",
+                "Chakra UI",
+                "TanStack Query",
+                "React Router",
+                "Mapbox GL JS",
+                "Storybook"
+            ],
+            "Back End": [
+                "Python",
+                "FastAPI",
+                "SQLModel",
+                "STAC (SpatioTemporal Asset Catalogs)",
+                "Jupyter Notebooks",
+                "F#",
+                ".NET"
+            ],
+            "Database": [
+                "Postgres",
+                "Firestore",
+                "PostGIS"
+            ],
+            "DevOps Tools": [
+                "Docker",
+                "Terraform",
+                "kubernetes",
+                "GCP Cloud Run",
+                "GitHub Actions"
+            ],
+            "Cloud Provider": [
+                "GCP",
+                "AWS",
+                "On-premises"
+            ]
+        }
+    },
+    {
+        "Company Name": "Celtx",
+        "LinkedIn": "https://www.linkedin.com/company/celtx/",
+        "Website": "https://www.celtx.com/",
+        "Technologies": {
+            "Front End": [
+                "JS",
+                "TypeScript",
+                "ProseMirror",
+                "React"
+            ],
+            "Back End": [
+                "Python (numpy/scipy/pandas/dask/FastAPI)",
+                "JS",
+                "TypeScript",
+                "Perl",
+                "Objective-C",
+                "Node.js",
+                "Java",
+                "Unity/C#",
+                "Unreal/C++"
+            ],
+            "DevOps Tools": [
+                "CodeBuild",
+                "Selenium"
+            ],
+            "Cloud Provider": [
+                "AWS",
+                "DynamoDB",
+                "SimpleDB",
+                "GCP",
+                "Docker"
+            ]
+        }
+    },
+    {
+        "Company Name": "ClearRisk",
+        "LinkedIn": "https://www.linkedin.com/company/clearrisk-inc/",
+        "Website": "https://www.clearrisk.com/",
+        "Technologies": {
+            "Back End": [
+                "Salesforce",
+                "Python",
+                "Java",
+                "JS",
+                "Node.js"
+            ],
+            "Database": [
+                "SQL"
+            ],
+            "Cloud Provider": [
+                "AWS (EC2",
+                "S3",
+                "Glue",
+                "Athena)"
+            ]
+        }
+    },
+    {
+        "Company Name": "ClockWork Fox (Zorbit's)",
+        "LinkedIn": "https://www.linkedin.com/company/clockwork-fox-studios/",
+        "Website": "https://www.zorbitsmath.com/",
+        "Technologies": {
+            "Front End": [
+                "JS",
+                "TypeScript",
+                "Angular.js"
+            ],
+            "Back End": [
+                "C#",
+                "Java",
+                "Unity"
+            ],
+            "Database": [
+                "SQL",
+                "MariaDB"
+            ],
+            "Cloud Provider": [
+                "AWS"
+            ]
+        }
+    },
+    {
+        "Company Name": "Colab Software",
+        "LinkedIn": "https://www.linkedin.com/company/colabsoftware/",
+        "Website": "https://www.colabsoftware.com/",
+        "Technologies": {
+            "Front End": [
+                "JS",
+                "React.js"
+            ],
+            "Back End": [
+                "Python",
+                "Flask",
+                "graphQL"
+            ],
+            "Database": [
+                "Postgres"
+            ],
+            "DevOps Tools": [
+                "Terraform"
+            ],
+            "Cloud Provider": [
+                "AWS"
+            ]
+        }
+    },
+    {
+        "Company Name": "Cyno",
+        "LinkedIn": "https://www.linkedin.com/company/cynohealth/",
+        "Website": "https://www.cyno.com/",
+        "Technologies": {
+            "Back End": [
+                "Salesforce",
+                "Python",
+                "Java",
+                "JS",
+                "Node.js"
+            ],
+            "Database": [
+                "SQL"
+            ],
+            "Cloud Provider": [
+                "AWS (EC2",
+                "S3",
+                "Glue",
+                "Athena)"
+            ]
+        }
+    },
+    {
+        "Company Name": "Fonemed",
+        "LinkedIn": "https://www.linkedin.com/company/fonemed/",
+        "Website": "https://www.fonemed.com/",
+        "Technologies": {
+            "Front End": [
+                "React.js",
+                "Javascript",
+                "React Native",
+                "Javascript"
+            ],
+            "Back End": [
+                "Node.js",
+                "Ruby"
+            ],
+            "Database": [
+                "DynamoDB",
+                "Postgres"
+            ],
+            "DevOps Tools": [
+                "Docker"
+            ],
+            "Cloud Provider": [
+                "AWS"
+            ]
+        }
+    },
+    {
+        "Company Name": "Get Coding",
+        "LinkedIn": "https://www.linkedin.com/school/get-coding",
+        "Website": null,
+        "Technologies": {
+            "Front End": [
+                "React.js",
+                "Amplify"
+            ],
+            "Back End": [
+                "AppSync",
+                "GraphQL",
+                "Node.js"
+            ],
+            "Database": [
+                "DynamoDB"
+            ],
+            "Cloud Provider": [
+                "AWS"
+            ]
+        }
+    },
+    {
+        "Company Name": "HIVE Geospatial Inc.",
+        "LinkedIn": "https://www.linkedin.com/company/hive-geospatial-inc/about/",
+        "Website": "https://www.hivegeospatial.app/",
+        "Technologies": {
+            "Front End": [
+                "React.js"
+            ],
+            "Back End": [
+                "Python"
+            ],
+            "Database": [
+                "PostgreSQL",
+                "PostGIS"
+            ],
+            "DevOps Tools": [
+                "Docker",
+                "GitHub actions"
+            ],
+            "Cloud Provider": [
+                "Firebase"
+            ]
+        }
+    },
+    {
+        "Company Name": "HeyOrca",
+        "LinkedIn": "https://www.linkedin.com/company/heyorca/",
+        "Website": "https://heyorca.com/",
+        "Technologies": {
+            "Front End": [
+                "JS",
+                "TypeScript",
+                "React.js",
+                "React-Native"
+            ],
+            "Back End": [
+                "Node.js",
+                "PHP",
+                "Laravel",
+                "SQL"
+            ],
+            "Cloud Provider": [
+                "Lambda",
+                "AWS",
+                ""
+            ]
+        }
+    },
+    {
+        "Company Name": "InspectAR",
+        "LinkedIn": "https://www.linkedin.com/company/inspectar/",
+        "Website": "https://www.inspectar.com/",
+        "Technologies": {
+            "Back End": [
+                "Unity"
+            ]
+        }
+    },
+    {
+        "Company Name": "Instrumar",
+        "LinkedIn": "https://www.linkedin.com/company/instrumar-limited/",
+        "Website": "https://www.instrumar.com/",
+        "Technologies": {}
+    },
+    {
+        "Company Name": "JVPLabs",
+        "LinkedIn": "https://www.linkedin.com/company/jvplabs/",
+        "Website": "https://www.jvplabs.com/",
+        "Technologies": {
+            "Front End": [
+                "javascript",
+                "react.js",
+                "Storybook"
+            ],
+            "Back End": [
+                "Python (numpy/scipy/scikit-learn/opencv/dask)",
+                "rapids.ai",
+                "ARM64",
+                "MIPI cameras"
+            ],
+            "Cloud Provider": [
+                "GCP",
+                "containers"
+            ]
+        }
+    },
+    {
+        "Company Name": "Kraken Robotics",
+        "LinkedIn": "https://www.linkedin.com/company/krakenrobotics/",
+        "Website": "https://krakenrobotics.com/",
+        "Technologies": {
+            "Front End": [
+                "JavaScript",
+                "TypeScript",
+                "React",
+                "C#",
+                "WPF"
+            ],
+            "Back End": [
+                "C++",
+                "Node.js",
+                "Prisma"
+            ],
+            "Database": [
+                "PostgreSQL"
+            ],
+            "DevOps Tools": [
+                "GitLab",
+                "Docker"
+            ]
+        }
+    },
+    {
+        "Company Name": "MetricsFlow",
+        "LinkedIn": "https://www.linkedin.com/company/metrics-flow/",
+        "Website": "https://www.metricsflow.com/",
+        "Technologies": {
+            "Front End": [
+                "JS"
+            ],
+            "Back End": [
+                "PHP",
+                "Node.js",
+                "Salesforce",
+                "Python"
+            ],
+            "Database": [
+                "SQL"
+            ],
+            "Cloud Provider": [
+                "Azure"
+            ]
+        }
+    },
+    {
+        "Company Name": "Milk Moovement",
+        "LinkedIn": "https://www.linkedin.com/company/milkmoovement/",
+        "Website": "https://www.milkmoovement.com/",
+        "Technologies": {
+            "Front End": [
+                "JS",
+                "TypeScript",
+                "React.js",
+                "React Native"
+            ],
+            "Back End": [
+                "Node.js"
+            ],
+            "Database": [
+                "MongoDB"
+            ],
+            "Cloud Provider": [
+                "AWS",
+                "S3",
+                "EC2",
+                "Lambda",
+                "Docker",
+                ""
+            ]
+        }
+    },
+    {
+        "Company Name": "Mysa",
+        "LinkedIn": "https://www.linkedin.com/company/mysa---empowered-homes/",
+        "Website": "https://getmysa.com/",
+        "Technologies": {
+            "Front End": [
+                "JS",
+                "React.js",
+                "React Native",
+                "TypeScript"
+            ],
+            "Database": [
+                "NoSQL",
+                "SQL"
+            ],
+            "Cloud Provider": [
+                "AWS"
+            ]
+        }
+    },
+    {
+        "Company Name": "NetBenefit Software",
+        "LinkedIn": "https://www.linkedin.com/company/netbenefitsoftware/",
+        "Website": "https://netbenefitsoftware.com/",
+        "Technologies": {
+            "Front End": [
+                "React",
+                "TypeScript",
+                "NotificationAPI"
+            ],
+            "Back End": [
+                "Node.js",
+                "Express",
+                "TypeScript",
+                "Knex",
+                "NotificationAPI"
+            ],
+            "Database": [
+                "SQL"
+            ],
+            "DevOps Tools": [
+                "GitHub Actions",
+                "Azure DevOps"
+            ],
+            "Cloud Provider": [
+                "Azure"
+            ]
+        }
+    },
+    {
+        "Company Name": "North Star Payroll",
+        "LinkedIn": "https://www.linkedin.com/company/northstarpayroll/",
+        "Website": "https://northstarpayroll.ca/",
+        "Technologies": {}
+    },
+    {
+        "Company Name": "NotificationAPI",
+        "LinkedIn": "https://www.linkedin.com/company/notificationapi",
+        "Website": "https://www.notificationapi.com/",
+        "Technologies": {
+            "Front End": [
+                "JS",
+                "TypeScript",
+                "React.js",
+                "Cypress"
+            ],
+            "Back End": [
+                "Node.js",
+                "Jest"
+            ],
+            "Database": [
+                "DynamoDB",
+                "MySQL"
+            ],
+            "DevOps Tools": [
+                "Terraform",
+                "Serverless",
+                "Github Actions"
+            ],
+            "Cloud Provider": [
+                "AWS"
+            ]
+        }
+    },
+    {
+        "Company Name": "Oliver POS",
+        "LinkedIn": "https://www.linkedin.com/company/getoliverpos/",
+        "Website": "https://oliverpos.com/",
+        "Technologies": {
+            "Front End": [
+                "React js",
+                "React Native"
+            ],
+            "Back End": [
+                ".NET",
+                "PHP",
+                "Wordpress"
+            ],
+            "Database": [
+                "SQL"
+            ]
+        }
+    },
+    {
+        "Company Name": "Perfect Minute Games",
+        "LinkedIn": "https://www.linkedin.com/company/perfect-minute-games/",
+        "Website": "http://perfectminutegames.com/",
+        "Technologies": {
+            "Front End": [
+                "Unity",
+                "Unreal"
+            ],
+            "Back End": [
+                "Unity",
+                "Unreal"
+            ],
+            "DevOps Tools": [
+                "Unity Cloud build",
+                "Plastic SCM",
+                "git"
+            ]
+        }
+    },
+    {
+        "Company Name": "PolyUnity",
+        "LinkedIn": "https://www.linkedin.com/company/polyunity/",
+        "Website": "https://www.polyunity.com/",
+        "Technologies": {
+            "Front End": [
+                "JS",
+                "React.js",
+                "MaterialUI"
+            ],
+            "Back End": [
+                "Node.js"
+            ],
+            "Database": [
+                "PostgreSQL",
+                "Firestore",
+                "Bigquery"
+            ],
+            "Cloud Provider": [
+                "GCP (Functions",
+                "Firebase",
+                "CloudSQL",
+                "BigQuery)"
+            ]
+        }
+    },
+    {
+        "Company Name": "Prospre",
+        "LinkedIn": "https://www.linkedin.com/company/prospre/",
+        "Website": "https://www.prospre.io/",
+        "Technologies": {
+            "Front End": [
+                "HTML/CSS",
+                "React",
+                "React Native",
+                "JS"
+            ],
+            "Back End": [
+                "Python",
+                "Flask"
+            ],
+            "Database": [
+                "PostgreSQL"
+            ],
+            "Cloud Provider": [
+                "AWS",
+                "Firebase"
+            ]
+        }
+    },
+    {
+        "Company Name": "Radient360",
+        "LinkedIn": "https://www.linkedin.com/company/radient360/",
+        "Website": "https://radient360.com/",
+        "Technologies": {
+            "Front End": [
+                "React.js"
+            ],
+            "Back End": [
+                "Node.js"
+            ],
+            "Database": [
+                "MongoDB",
+                "Neo4j"
+            ],
+            "DevOps Tools": [
+                "Ansible",
+                "Terraform",
+                "Docker",
+                "Kubernetes"
+            ],
+            "Cloud Provider": [
+                "AWS"
+            ]
+        }
+    },
+    {
+        "Company Name": "Rally",
+        "LinkedIn": "https://www.linkedin.com/company/rallylegal/",
+        "Website": "https://www.rallylegal.com/",
+        "Technologies": {
+            "Front End": [
+                "React.js",
+                "Cypress",
+                "Storybook",
+                "Tailwind"
+            ],
+            "Back End": [
+                "Node.js",
+                "GraphQL",
+                "Jest"
+            ],
+            "Database": [
+                "MongoDB",
+                "Redis"
+            ],
+            "DevOps Tools": [
+                "Docker",
+                "Kubernetes",
+                "Kustomize",
+                "Skaffold",
+                "GitLab"
+            ],
+            "Cloud Provider": [
+                "AWS"
+            ]
+        }
+    },
+    {
+        "Company Name": "Sequence Bio",
+        "LinkedIn": "https://www.linkedin.com/company/sequencebioinformatics/",
+        "Website": "https://www.sequencebio.com/",
+        "Technologies": {
+            "Back End": [
+                "Ruby",
+                "Python",
+                "R",
+                "Databricks",
+                "Salesforce"
+            ],
+            "DevOps Tools": [
+                "Terraform",
+                "Github",
+                "Docker",
+                "CircleCI"
+            ],
+            "Cloud Provider": [
+                "AWS",
+                "EC2",
+                "S3",
+                "AWS Connect",
+                "Auth0",
+                "AlienVault",
+                "Umbrella",
+                "Sophos"
+            ]
+        }
+    },
+    {
+        "Company Name": "SiftMed",
+        "LinkedIn": "https://www.linkedin.com/company/siftmed/",
+        "Website": "https://www.siftmed.ca/",
+        "Technologies": {
+            "Front End": [
+                "React.js",
+                "Material UI",
+                "Syncfusion"
+            ],
+            "Back End": [
+                "Python",
+                "Tensorflow"
+            ],
+            "Database": [
+                "MySQL"
+            ],
+            "DevOps Tools": [
+                "Serverless",
+                "Terraform",
+                "Docker"
+            ],
+            "Cloud Provider": [
+                "AWS"
+            ]
+        }
+    },
+    {
+        "Company Name": "SkillsHawk",
+        "LinkedIn": "https://www.linkedin.com/company/skillshawks/",
+        "Website": "https://www.skillshawk.com/",
+        "Technologies": {
+            "Front End": [
+                "React.js"
+            ],
+            "Back End": [
+                "Node.js",
+                "Python"
+            ],
+            "Database": [
+                "SQL",
+                "DynamoDb"
+            ],
+            "DevOps Tools": [
+                "CloudFormation",
+                "SAM",
+                "Severless"
+            ],
+            "Cloud Provider": [
+                "AWS"
+            ]
+        }
+    },
+    {
+        "Company Name": "SkyHawk By Telus",
+        "LinkedIn": "https://www.linkedin.com/company/skyhawktelematics/",
+        "Website": "https://skyhawktelematics.com/",
+        "Technologies": {
+            "Back End": [
+                "Java",
+                "Vert.x"
+            ],
+            "Database": [
+                "MongoDB"
+            ],
+            "Cloud Provider": [
+                "AWS",
+                "Fargate",
+                "EC2",
+                "GWT"
+            ]
+        }
+    },
+    {
+        "Company Name": "StrobelTek",
+        "LinkedIn": "https://www.linkedin.com/company/strobeltek/",
+        "Website": "https://strobeltek.com/",
+        "Technologies": {
+            "Back End": [
+                "C/C++",
+                "Python",
+                "ROS",
+                "CUDA",
+                "Tensorflow",
+                "QT",
+                "Matlab/Octave"
+            ]
+        }
+    },
+    {
+        "Company Name": "SubC Imaging",
+        "LinkedIn": "https://www.linkedin.com/company/subc-control/",
+        "Website": "https://www.subcimaging.com/",
+        "Technologies": {
+            "Front End": [
+                "Xamarin",
+                "Blazor"
+            ],
+            "Back End": [
+                "C#",
+                "WPF",
+                "ASP.NET Core"
+            ],
+            "Cloud Provider": [
+                "Azure",
+                "AWS"
+            ]
+        }
+    },
+    {
+        "Company Name": "TxtSquad",
+        "LinkedIn": "https://www.linkedin.com/company/txtsquad/",
+        "Website": "https://txtsquad.com/",
+        "Technologies": {
+            "Front End": [
+                "JavaScript",
+                "TypeScript",
+                "React.js",
+                "React Native"
+            ],
+            "Back End": [
+                "Node.js"
+            ],
+            "Database": [
+                "MongoDB",
+                "Redis"
+            ],
+            "Cloud Provider": [
+                "AWS",
+                "Vercel",
+                "Expo"
+            ]
+        }
+    },
+    {
+        "Company Name": "Verafin",
+        "LinkedIn": "https://www.linkedin.com/company/verafin/",
+        "Website": "https://verafin.com/?src=linkedinbutton",
+        "Technologies": {
+            "Front End": [
+                "JavaScript",
+                "React.js"
+            ],
+            "Back End": [
+                "Java",
+                "Python"
+            ],
+            "Database": [
+                "PostgresSQL",
+                "Data Lakes",
+                "DynamoDB"
+            ],
+            "DevOps Tools": [
+                "Docker",
+                "Terraform",
+                "Jenkins",
+                "Gradle"
+            ],
+            "Cloud Provider": [
+                "AWS"
+            ]
+        }
+    },
+    {
+        "Company Name": "Virtual Marine",
+        "LinkedIn": "https://www.linkedin.com/company/virtualmarinetech/",
+        "Website": "https://www.virtualmarine.ca/",
+        "Technologies": {
+            "Back End": [
+                "Unity3D",
+                "C#",
+                "Qt",
+                "C++",
+                "Moodle",
+                "HLA 1.3",
+                "Blender"
+            ]
+        }
+    }
+]
